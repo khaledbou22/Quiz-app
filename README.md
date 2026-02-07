@@ -17,5 +17,5 @@ https://quizapp-tau-kohl.vercel.app/
 
 ## 🚀 How to Run
 Clone the repository:
-git clone https://github.com/your-username/quiz-app.git
+git clone https://github.com/your-username/quiz-app.git , 
 then Open index.html in your browser.
